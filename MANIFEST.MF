@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.music.MainFrame
+SplashScreen: res/North.jpg res/South.jpg res/Left.jpg res/Center.jpg res/Choose.jpg res/When.jpg res/Load.jpg res/Icon.jpg
+Class-Path: lib/jl1.0.jar lib/mp3spi1.9.4.jar lib/tritonus_share.jar
